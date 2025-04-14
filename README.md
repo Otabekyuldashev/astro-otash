@@ -1,1 +1,1 @@
-# astro-otash
+# astro-analyzer
